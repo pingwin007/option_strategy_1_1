@@ -1,0 +1,23 @@
+param,value
+simulation start,03.01.2020
+wybor tytulu,1
+cena opcji,0.025
+laufzeit,20
+after 5 days: ,0.0175
+after 10 days,0.015
+keep until,0.01
+first exit check,10
+second exit check,15
+cena opcji_bm,0.023
+remaining_1_procent,0.075
+remaining_20_procent,0.05
+remaining_50_procent,0.025
+option_sensitivity_to_strike,0.4
+multiple_of_one_deal,25
+days_delay_in_trading,21
+mult_upside,1.5
+mult_breakthrough,0.5
+short_options_premium,0.25
+early_termination_enabled,1
+early_termination_threshold_return,3
+daily_fluctuation,0.0125

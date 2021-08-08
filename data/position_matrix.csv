@@ -1,0 +1,7 @@
+Position Matrix,In/Out,Premium,First_Check,Second_Check,Call_in,Put_in,Resistance,Breakthrough,Strong_Signal,Signal,RSI Regular,RSI Increase,Daily_Trading_Call,Daily_Trading_Put
+NOVN,1,0.023,5,10,1,1,0,0,1,0,40,30,1,1
+LHN,0,0.0275,10,15,1,1,0,0,1,0,40,30,0,0
+ABB,0,0.027,5,10,0,0,0,0,1,0,40,30,0,0
+NESN,0,0.022,5,10,0,0,0,0,1,0,40,30,0,0
+AIR,0,0.04,5,10,0,0,0,0,1,0,40,30,0,0
+TOTB,0,0.0395,5,10,0,0,0,0,1,0,40,30,0,0
